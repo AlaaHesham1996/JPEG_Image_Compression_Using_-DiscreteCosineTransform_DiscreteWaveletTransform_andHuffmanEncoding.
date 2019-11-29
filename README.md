@@ -5,5 +5,5 @@ The main textbook we have used as a reference is "*H.264 and MPEG-4 Video Compre
 You can find summary of results inside file named "Information theory project report.docx". **The Highest compression ratio achieved is 9.662.**
 
 **Note** 
-If you cannot view the "DWT_IDWT_For_Images_Compression.ipynb" notebook , this is due to its large size 60.6 MB .You can download it and view it on your python editor such as Colab or Jupyter.
+If you cannot view the "DWT_IDWT_For_Images_Compression.ipynb" notebook,this is due to its large size 60.6 MB.You can download it and view it on your python editor such as Colab or Jupyter.
 
